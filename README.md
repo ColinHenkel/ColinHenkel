@@ -14,7 +14,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 - Backend Development
 
 ### ⚙️ Known languages:
-- `.c`,`.cpp`,`.php`,`.cs`,`.css`,`.java`,`.kt`
+- [![My Skills](https://skillicons.dev/icons?i=arch,bash,c,cs,cpp,java,php,neovim,vscode)](https://skillicons.dev)
 
 ### 💻 Github stats:
 
