@@ -13,7 +13,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 - Computer Science Theory
 - Backend Development
 
-### ⚙️ Daily languages:
+### ⚙️ Known languages:
 - `.c`,`.cpp`,`.php`,`.cs`,`.css`,`.java`,`.kt`
 
 ### 💻 Github stats:
