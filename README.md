@@ -14,19 +14,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 - Backend Development
 
 ### ⚙️ Daily languages:
-- <span class="badge">.c</span> <span class="badge">.cpp</span> <span class="badge">.php</span> <span class="badge">.cs</span> <span class="badge">.css</span> <span class="badge">.java</span> <span class="badge">.kt</span>
-
-<style>
-  .badge {
-    background-color: #333;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 10px;
-    font-family: monospace;
-    margin-right: 5px;
-    display: inline-block;
-  }
-</style>
+- `.c`,`.cpp`,`.php`,`.cs`,`.css`,`.java`,`.kt`
 
 ### 💻 Github stats:
 
