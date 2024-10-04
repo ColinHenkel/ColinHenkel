@@ -14,8 +14,6 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 - Backend Development
 
 ### ⚙️ Daily languages:
-- <span class="badge">.c</span> <span class="badge">.cpp</span> <span class="badge">.php</span> <span class="badge">.cs</span> <span class="badge">.css</span> <span class="badge">.java</span> <span class="badge">.kt</span>
-
 <style>
   .badge {
     background-color: #333;
@@ -27,12 +25,13 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
     display: inline-block;
   }
 </style>
+- <span class="badge">.c</span> <span class="badge">.cpp</span> <span class="badge">.php</span> <span class="badge">.cs</span> <span class="badge">.css</span> <span class="badge">.java</span> <span class="badge">.kt</span>
 
 ### 💻 Github stats:
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ColinHenkel&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColinHenkel&theme=dark" alt="GitHub Streak Stats" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ColinHenkel&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColinHenkel&theme=dark" alt="GitHub Streak Stats" style="width: 45%;">
 </div>
 
 
