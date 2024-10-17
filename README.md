@@ -7,7 +7,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 - chenkelbusiness@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/colin-henkel-ba84522b6/)
 
-### ✍️ Currently learning:
+### ✍️ Currently studying:
 
 - Software Development
 - Computer Science Theory
