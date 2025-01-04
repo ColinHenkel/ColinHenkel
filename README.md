@@ -16,6 +16,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 ### ⚙️ Development skills:
 
 `C` | `C#` | `C++` | `Java` | `Kotlin` | `Python` | `SQL` | `PHP` | `JSON` | `JS`
+
 `AWS` | `Linux` | `MongoDB` | `MySQL` | `MariaDB` | `ReactJS`
 
 ### 💻 Github stats:
