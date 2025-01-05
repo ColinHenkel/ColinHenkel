@@ -15,9 +15,9 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 
 ### ⚙️ Development skills:
 
-Programming Languages: `C` | `C#` | `C++` | `Java` | `Kotlin` | `Python` | `SQL` | `PHP` | `JSON` | `JS`
+Programming Languages: [![My Skills](https://skillicons.dev/icons?i=c,c#,cpp,java,kotlin,python,sql,php,json,js,ts)](https://skillicons.dev)
 
-Technologies: `AWS` | `Linux` | `MongoDB` | `MySQL` | `MariaDB` | `ReactJS`
+Technologies: [![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,mongodb,mysql,react)](https://skillicons.dev)
 
 ### 💻 Github stats:
 
