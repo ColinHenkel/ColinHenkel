@@ -6,6 +6,7 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 
 - chenkelbusiness@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/colin-henkel/)
+- [Website](https://colinhenkel.github.io)
 
 ### ✍️ Currently studying:
 
