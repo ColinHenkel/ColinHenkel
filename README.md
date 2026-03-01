@@ -45,12 +45,3 @@ I'm Colin Henkel, a **Computer Science** major at the **University of Central Fl
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
----
-
-### 💻 Github stats:
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ColinHenkel&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColinHenkel&theme=dark" alt="GitHub Streak Stats" style="width: 48%;">
-</div>
