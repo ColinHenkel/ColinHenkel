@@ -1,18 +1,12 @@
 # Hey there👋
 
-I'm Colin Henkel, a **Computer Science** major at the **University of Central Florida!**
+I'm Colin Henkel, a **Full-Stack Developer** from **Central Florida!**
 
 ### 🌐 Contact me:
 
 - chenkelbusiness@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/colin-henkel/)
 - [Website](https://colinhenkel.github.io)
-
-### ✍️ Currently studying:
-
-- Software Development
-- Computer Science Theory
-- Backend Development
 
 ---
 
