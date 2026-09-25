@@ -24,7 +24,6 @@ I'm Colin Henkel, a **Full-Stack Developer** from **Central Florida!**
 
 ### ⚙️ Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -37,5 +36,7 @@ I'm Colin Henkel, a **Full-Stack Developer** from **Central Florida!**
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
