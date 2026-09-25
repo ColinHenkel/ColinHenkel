@@ -36,7 +36,7 @@ I'm Colin Henkel, a **Full-Stack Developer** from **Central Florida!**
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-4078C0?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
